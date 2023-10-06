@@ -1,3 +1,12 @@
+> To use this fixed version, please build and install the lib locally.
+> Following commandline are the local install steps
+> ```
+> git clone <this repo .git link>
+> cd AI-Feynman
+> python3 setup.py sdist
+> pip install ./dist/aifeynman-2.0.7.tar.gz
+> ```
+
 # Quick Start
 ## Installation
 It's strongly recommended to setup a fresh virtual environment by typing
